@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{90BC7597-C272-6190-15E8-9B415CB319FE}") = "Unity Ball Game", "Assembly-CSharp.csproj", "{22A3A565-5242-4D36-2518-88CC2D44D390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A3A565-5242-4D36-2518-88CC2D44D390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A3A565-5242-4D36-2518-88CC2D44D390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A3A565-5242-4D36-2518-88CC2D44D390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A3A565-5242-4D36-2518-88CC2D44D390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
