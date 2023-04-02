@@ -1,8 +1,5 @@
 <br />
 <div align="center">
-	<a href="https://github.com/DarioArzaba/UnityBallGame">
-		<img src="images/logo.png" alt="Logo" width="100">
-	</a>
 	<h3 align="center">Ball Game with Unity</h3>
 	<p align="center">
     	One of my first games done with Unity while I was learning C# in Visual Studio
