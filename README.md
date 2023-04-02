@@ -24,7 +24,7 @@ Use `wasd` keys to move, collect all the green pills to win!
 
 First Level Design | Player Controller Code | Testing the level
 :-------------------------:|:-------------------------: |:-------------------------:
-<img src="images/S1.png" alt="Provider" width="800">  | <img src="images/S2.png" alt="User" width="800"> | <img src="images/S3.png" alt="Driver" width="800">
+<img src="Images/S1.png" alt="First Level" width="800">  | <img src="Images/S2.png" alt="Player Code" width="800"> | <img src="Images/S3.png" alt="Testing Dev" width="800">
 
 ## Roadmap
 
